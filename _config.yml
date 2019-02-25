@@ -106,11 +106,11 @@ analytics:
 
 # Site Author
 author:
-  name             : "Your Name"
-  avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "I am an amazing person."
-  location         : "Somewhere"
-  email            :
+  name             : "Tamuel"
+  avatar           : "/assets/images/Mark-05.png"
+  bio              : "Make the world better by information technology."
+  location         : "South korea"
+  email            : "eastern7star@gmail.com"
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
